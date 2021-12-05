@@ -160,7 +160,7 @@ const answer = [
     "+onfocus: khi click chuột vào ô input +onblur: khi click chuột ngoài ô input",
     "Khi chương trình bắt đầu chạy",
     "+innerHTML: Có thể chạy thẻ HTML +innerText: hiển thị ra cả phần thẻ ",
-    "N/A",
+    "var checker = document.getElementById('checkBox'); var sendbtn = document.getElementById('button'); checker.onchange = function () { sendbtn.disabled = !!this.checked; };",
     "Cả 2 đều không thể thay đổi giá trị. readonly : Có thể bấm vào và giá trị có thể gửi kèm theo form. disable : không thể bấm vào cũng như giá trị không gửi kèm theo form.",
     "Vòng lặp thực hiện những công việc thương tự nhau với số lần biết trước hoặc số lần chưa biết trước. ",
     "+for: +while: +do...while:",
